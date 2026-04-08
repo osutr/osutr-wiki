@@ -11,6 +11,12 @@
       "title": "osu!türkiye Ayyıldız Turnuvası 2026",
       "link": "https://wybin.xyz/aytr/home",
       "image": "carousel/assets/2026-AYTR.jpg"
+    },
+    {
+      "id": "3",
+      "title": "81 Vilayet Kupası",
+      "link": "https://osu.ppy.sh/community/forums/topics/2145450",
+      "image": "carousel/assets/81vK.jpg"
     }
   ]
 }
