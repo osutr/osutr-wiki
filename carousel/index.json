@@ -1,11 +1,13 @@
 {
   "items": [
     {
+      "id": "legacy-959b362b4f",
       "title": "Aşırı Hızlandırılmış Akademi Turnuvası",
       "link": "https://discord.gg/aAV6xYdVWR",
-      "image": "carousel/assets/2026-04-07-as-r-h-zland-r-lm-s-akademi-turnuvas-e853af.jpg"
+      "image": "carousel/assets/AHAT.jpg"
     },
     {
+      "id": "legacy-738bb7df7c",
       "title": "osu!türkiye Ayyıldız Turnuvası 2026",
       "link": "https://wybin.xyz/aytr/home",
       "image": "carousel/assets/2026-AYTR.jpg"
