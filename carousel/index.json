@@ -2,15 +2,15 @@
   "items": [
     {
       "id": "1",
-      "title": "osu!türkiye Ayyıldız Turnuvası 2026",
-      "link": "https://wybin.xyz/aytr/home",
-      "image": "carousel/assets/2026-AYTR.jpg"
-    },
-    {
-      "id": "2",
       "title": "Aşırı Hızlandırılmış Akademi Turnuvası",
       "link": "https://discord.gg/aAV6xYdVWR",
       "image": "carousel/assets/AHAT.jpg"
+    },
+    {
+      "id": "2",
+      "title": "osu!türkiye Ayyıldız Turnuvası 2026",
+      "link": "https://wybin.xyz/aytr/home",
+      "image": "carousel/assets/2026-AYTR.jpg"
     }
   ]
 }
