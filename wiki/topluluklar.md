@@ -1,13 +1,12 @@
 ﻿# Topluluklar
 
-Bu sayfa, osu!türkiye çevresindeki ana topluluk alanlarını ve insanların nerede bir araya geldiğini özetlemek için kullanılır.
+osu!türkiye bünyesinde çeşitli amaçlar doğrultusunda topluluk üyeleri tarafından kurulmuş alt topluluklar bulunmaktadır. Bunlardan birkaçı aşağıda listelenmiştir.
 
-## Örnek başlıklar
-
-- ana Discord sunucusu
-- turnuva odaklı alanlar
-- proje ve organizasyon kanalları
-- topluluk içi alt gruplar
+| Topluluk ismi | Erişim |
+| :-- | :-- |
+| osu!türkiye | [Discord](https://discord.gg/osuturkiye), [osu! forum gönderisi](https://osu.ppy.sh/community/forums/topics/1753980) |
+| osu!türkiye Akademi | [Discord](https://discord.gg/aAV6xYdVWR) |
+| osu!mania Türkiye | [osu! forum gönderisi](https://osu.ppy.sh/community/forums/topics/2111944) |
 
 ## İlgili sayfalar
 
