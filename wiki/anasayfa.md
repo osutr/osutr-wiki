@@ -1,6 +1,8 @@
-﻿# Anasayfa
+﻿# Wiki
 
-osu!türkiye Wiki, topluluk hakkındaki temel bilgileri tek yerde toplamak için hazırlanır.
+Wiki bölümümüz henüz yapım aşamasında olup katkı sağlayacak gönüllülere ihtiyaç duymaktadır. Nihai amacımız osu!'nun Türkiye topluluğunun geçmişten günümüze tarihsel gelişimini tek merkezden erişilebilir olmasını sağlayarak topluluk hafızasını güçlendirmektir.
+
+Bu wiki yalnızca osu!türkiye bünyesindeki resmi toplulukları veya araçları kapsamaz, aynı zamanda Türkiye topluluğu için oluşturulan tüm organizasyonları, etkinlikleri, yarışmaları ve diğer medya araçlarını da içermeyi hedeflemektedir.
 
 ## Başlangıç
 
@@ -9,8 +11,13 @@ osu!türkiye Wiki, topluluk hakkındaki temel bilgileri tek yerde toplamak için
 - [Etkinlikler](/wiki/etkinlikler)
 - [Ekip](/wiki/ekip)
 
-## Bu wiki ne için var?
+## Katkıda bulunmak
 
-- topluluk yapısını görünür kılmak
-- ekiplerin ve sorumlulukların daha net anlaşılmasını sağlamak
-- etkinlik ve proje bilgisini daha kalıcı bir yerde toplamak
+Wiki makalelerimiz bir GitHub repository'si içerisinde barındırılmaktadır: **[osutr/osutr-wiki](https://github.com/osutr/osutr-wiki)** 
+
+Burada yapılan her türlü düzenleme gerçek zamanlı olarak web sitemizde güncellenmektedir. 
+
+Sistemimiz [osu! wiki](https://osu.ppy.sh/wiki/en/Main_page) ile benzer olduğundan, çalışma prensibini kavramak için [osu! wiki contribution guide](https://osu.ppy.sh/wiki/en/osu!_wiki/Contribution_guide) makalesine göz atmanızı tavsiye ederiz.
+
+Basit düzeyde [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) ve [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) bilgisi wiki çalışmalarına katkıda bulunmanız için yeterlidir.
+
