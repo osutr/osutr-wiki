@@ -25,7 +25,7 @@ Topluluğumuz için düzenlenen tüm turnuvalar burada arşivlenmiştir.
 
 | Tarih aralığı | Etkinlik ismi | Organizatör(ler) | Kazanan(lar) |
 | :-- | :-- | :-- | :-- |
-| Ekim 2024 - Kasım 2024 | [osu!türkiye Battle Royale 2024](https://osu.ppy.sh/community/forums/topics/1986402) | [Rosaitty](https://osu.ppy.sh/users/9319605), [SStoney](https://osu.ppy.sh/users/8576252) | [Liery](https://osu.ppy.sh/users/11551991) |
+| Ekim 2024 - Kasım 2024 | [osu!türkiye Battle Royale 2024](https://osu.ppy.sh/community/forums/topics/1986402) | [Rosaitty](https://osu.ppy.sh/users/9319605) | [Liery](https://osu.ppy.sh/users/11551991) |
 
 ### 2023
 
