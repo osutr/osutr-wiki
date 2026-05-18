@@ -2,21 +2,21 @@
   "items": [
     {
       "id": "1",
+      "title": "AHAT2",
+      "link": "https://drive.google.com/file/d/1-tE7IFjXvFvBJTKsDmHn2_4pqcvdg6LH/view?usp=drive_link",
+      "image": "carousel/assets/Mays.png"
+    },
+    {
+      "id": "2",
       "title": "osu!türkiye Ayyıldız Turnuvası 2026",
       "link": "https://wybin.xyz/aytr/home",
       "image": "carousel/assets/2026-AYTR.jpg"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "81 Vilayet Kupası",
       "link": "https://osu.ppy.sh/community/forums/topics/2145450",
       "image": "carousel/assets/81vK.jpg"
-    },
-    {
-      "id": "3",
-      "title": "AHAT2",
-      "link": "https://drive.google.com/file/d/1-tE7IFjXvFvBJTKsDmHn2_4pqcvdg6LH/view?usp=drive_link",
-      "image": "carousel/assets/Mays.png"
     }
   ]
 }
