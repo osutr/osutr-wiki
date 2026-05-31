@@ -2,27 +2,27 @@
   "items": [
     {
       "id": "1",
+      "title": "osu!türkiye Open 2026",
+      "link": "https://osu.ppy.sh/community/forums/topics/2211098",
+      "image": "carousel/assets/otr26banner.png"
+    },
+    {
+      "id": "2",
       "title": "Aşırı Hızlandırılmış Akademi Turnuvası #2",
       "link": "https://discord.gg/aAV6xYdVWR",
       "image": "carousel/assets/Mays.png"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "osu!türkiye Ayyıldız Turnuvası 2026",
       "link": "https://wybin.xyz/aytr/home",
       "image": "carousel/assets/2026-AYTR.jpg"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "81 Vilayet Kupası",
       "link": "https://osu.ppy.sh/community/forums/topics/2145450",
       "image": "carousel/assets/81vK.jpg"
-    },
-    {
-      "id": "4",
-      "title": "osu!türkiye Open 2026",
-      "link": "https://osu.ppy.sh/community/forums/topics/2211098",
-      "image": "carousel/assets/otr26banner.png"
     }
   ]
 }
