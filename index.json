@@ -5,7 +5,7 @@
     { "slug": "hakkimizda", "title": "Hakkımızda", "path": "wiki/hakkimizda.md" },
     { "slug": "topluluklar", "title": "Topluluklar", "path": "wiki/topluluklar.md" },
     { "slug": "etkinlikler", "title": "Etkinlikler", "path": "wiki/etkinlikler.md" },
-    { "slug": "ekip", "title": "Ekip", "path": "wiki/ekip.md" }
+    { "slug": "ekip", "title": "Ekip", "path": "wiki/ekip.md" },
     { "slug": "otr26/rules", "title": "OTR26 Kurallar", "path": "wiki/otr26/rules.md" }
   ]
 }
