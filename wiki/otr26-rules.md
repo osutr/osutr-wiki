@@ -1,7 +1,5 @@
 # osu!türkiye Open 2026: Kurallar ve Düzenlemeler
 
-![Banner "osu!türkiye Open 2026 Banner"](https://zeu.s-ul.eu/R8M63WKc.png)
-
 *Son güncelleme: 30 Mayıs 2026*
 
 Bu sayfada osu!türkiye Open 2026 turnuvasına dair tüm kuralların ve daha fazlasının detaylı bir açıklaması yer almaktadır. Turnuva veya maç esnasında meydana gelebilecek tüm durumlar için bu doküman referans alınmalıdır. Turnuva organizatörleri, bu dokümanda karşılığı bulunmayan durumlarda inisiyatif alarak kendi hükümlerini uygulama hakkını saklı tutar.
