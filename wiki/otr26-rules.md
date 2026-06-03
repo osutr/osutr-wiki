@@ -182,7 +182,6 @@ Bu durumda podyuma yerleşen takım oyuncuları için ödüllendirme aşağıdak
 Herkes ödül havuzuna aşağıdaki yollarla katkıda bulunabilir:
 - **Yurtiçi banka havalesi (Türk Lirası)**: Banka hesap bilgileri için [SStoney](https://osu.ppy.sh/users/8576252) ile iletişime geçiniz.
 - **Yurtdışı banka havalesi (Euro)**: Banka hesap bilgileri için [Zeus](https://osu.ppy.sh/users/5464437) ile iletişime geçiniz. Yalnızca SEPA bölgesi için geçerlidir.
-- [**Kredi Kartı**](https://donate.osuturkiye.com/b/4gMaERf6d0An44I2TW7bW00)
 - [**PayPal**](https://paypal.me/altarbinici)
 
 ## Davranış Kuralları
