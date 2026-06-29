@@ -1,6 +1,6 @@
 # osu!türkiye Open 2026: Kurallar ve Düzenlemeler
 
-*Son güncelleme: 30 Mayıs 2026*
+*Son güncelleme: 29 Haziran 2026*
 
 Bu sayfada osu!türkiye Open 2026 turnuvasına dair tüm kuralların ve daha fazlasının detaylı bir açıklaması yer almaktadır. Turnuva veya maç esnasında meydana gelebilecek tüm durumlar için bu doküman referans alınmalıdır. Turnuva organizatörleri, bu dokümanda karşılığı bulunmayan durumlarda inisiyatif alarak kendi hükümlerini uygulama hakkını saklı tutar.
 
