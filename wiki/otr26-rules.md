@@ -65,6 +65,14 @@ Bu sayfada osu!türkiye Open 2026 turnuvasına dair tüm kuralların ve daha faz
 - İki takımın da yeterli sayıda oyuncusu olmadığı durumda, mümkünse maç ileri bir tarihe ertelenir. Eğer ki maçın ertelenmesi söz konusu değil ise Ön Elemelerde sıralaması yüksek olan takım **hükmen galip** sayılır.
 - Maç lobilerinde **ısınma turu** amacıyla harita havuzunda bulunmayan ve skora etkisi olmayan **herhangi bir harita oynanmayacaktır**. Oyuncuların lobiye ısınmış bir vaziyette katılması beklenir.
 
+## Maç Zaman Değişiklikleri
+
+- Varsayılan olarak tüm maçlar haftasonu ile sınırlı olmak üzere rastgele zaman dilimlerine göre dağıtılacaktır. Her karşılaşmaya bir hakem atanacaktır. Maç zaman değişikliklerinden ilgili maçların hakemleri sorumludur. 
+- Maç zaman değişiklikleri **o haftanın Perşembe günü saat 23:59'a kadar**, haftaiçi bir vakitte oynanması talep edilen maçlar ise oynamak istenilen vakitten **en geç 24 saat öncesine kadar** belirtilmelidir. İstisnalar yalnızca acil durumlarda dikkate alınacaktır.
+- Hafta içi bir gün için maç talep ediliyorsa, önce ilgili karşılaşmanın hakemiyle iletişime geçilmelidir. Eğer uygun bir hakem bulunamıyorsa, karşılaşma saati değiştirilemeyecektir ve varsayılan maç zamanı kabul edilecektir. 
+- Haftaiçi oynanan veya bir başka maç ile çakışan karşılaşmalarda yayın garantisi yoktur. 
+- Zaman değişikliği talepleri karşı takım tarafından izin alınarak oluşturulmalıdır. Bu doğrultuda her iki tarafın da sportmence ve nezaket kurallarına uygun bir biçimde, çözüm odaklı bir yaklaşım sergilemesi davranış kurallarımız gereği zorunludur.
+
 ## Ban ve Pick Kuralları
 
 - Takım kaptanları odaya geldikten sonra hakem, her iki takım kaptanından chate **`!roll`** komutunu yazmalarını ister.  
